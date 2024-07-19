@@ -1,15 +1,18 @@
 ## my built of dwm, dmenu, st, slock and slstatus
 
 ### dwm
+Dynamic window manager.
 dwm is a dynamic window manager for X. <br>
 It manages windows in tiled, monocle and floating layouts. <br>
 
 ### dmenu
+Dynamic menu
 dmenu is a dynamic menu for X. <br>
 originally designed for dwm. <br>
 It manages large numbers of user-defined menu items efficiently.
 
 ### st
+Simple terminal
 st is a simple terminal implementation for X.
 
 ### slock
